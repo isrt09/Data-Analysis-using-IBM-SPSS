@@ -25,6 +25,8 @@ Data Analysis using IBM SPSS under following given Professor's Instructions
 	- Dr. Professor Todd Daniel, Missouri State University
 	- Dr. Professor Andy Field, University of Sussex.	
 	- Assistant Professor, Bogdan Anastasiei, University of Lasi
+	- Assistant Professor, Haorang Zhang, University of Rutgers
+	- Assistant Professor, Yogita Aggarwal, University of Amity
 	- Assistant Professor, Azharul Islam, University of Dhaka	
 
 	The Topics cover will be uploaded soon. Be continued ....
