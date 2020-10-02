@@ -1,4 +1,4 @@
-# Data-Analysis-using-IBM-SPSS
+# Data Analysis using IBM SPSS v25
 
 Hi, This is Mazed. I am following some techniques in that used in IBM SPSS.
 The major data analysis are quantitative research instead of qualiatative research.
