@@ -28,6 +28,7 @@ Data Analysis using IBM SPSS under following given Professor's Instructions
 	- Assistant Professor, Azharul Islam, University of Dhaka	
 
 	The Topics cover will be uploaded soon. Be continued ....
-															-by Mazedur
-															Applied Statistics, (ISRT,Batch 09)	
+															
+
+										
 
